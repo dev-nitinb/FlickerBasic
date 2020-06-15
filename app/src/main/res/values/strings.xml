@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flicker Basic</string>
+    <string name="most_recent">Most Recent</string>
+    <string name="most_interesting">Most Interesting</string>
+</resources>
